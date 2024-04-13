@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Ppatrik52
+- 👀 I’m interested in JavaScript
+- 🌱 I’m currently learning Front
